@@ -2,3 +2,7 @@
 
 
 
+This project tracks my Git practice
+
+
+
